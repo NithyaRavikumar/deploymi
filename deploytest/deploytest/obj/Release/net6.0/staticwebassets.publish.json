@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vAk4F77Qs6lJl9EYicRLysPBe7M0/0SAn7rg68Yx3W0=",
+  "Source": "deploytest",
+  "BasePath": "_content/deploytest",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
